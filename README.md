@@ -1,3 +1,3 @@
 # practise
-author- Aryan Shende <br>
+author- Aryan Shende (practise) <br>
 Tars Technology
